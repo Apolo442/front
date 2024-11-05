@@ -1,0 +1,59 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+.altura {
+  height: 55vh;
+}
+
+.fonte1 {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.fonte2 {
+  font-weight: 100;
+}
+
+.borda1 {
+  padding: 20px;
+  border-left-width: 4px;
+  border-left-style: solid;
+  border-left-color: #000;
+}
+
+.titulo2 {
+  padding-left: 55px;
+}
+
+.mainbox {
+  padding-top: 80px;
+}
+
+.cam-box {
+  margin-top: 100px;
+}
+
+.box1 {
+  margin-bottom: 160px;
+  background-color: rgb(245, 247, 248);
+  padding: 40px;
+}
+
+.box2 {
+  margin-bottom: 160px;
+
+  background-color: rgba(229, 229, 244, 0.67);
+  padding: 40px;
+}
+
+button {
+  font-family: arial;
+  font-weight: bold;
+  color: #ffffff !important;
+  font-size: 14px;
+  padding: 10px 25px;
+  border-radius: 21px;
+  border: 2px solid #010203;
+  background: #000000;
+}
